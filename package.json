@@ -7,7 +7,7 @@
     "test": "jest",
     "lint": "eslint ./",
     "docs": "node_modules/.bin/jsdoc -c jsdoc.json README.md && cp -r assets ./docs/assets",
-    "prepare:": "babel src -d lib"
+    "prepare": "babel src -d lib"
   },
   "author": "Raghav Mecheri",
   "license": "MIT",
