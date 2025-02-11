@@ -151,13 +151,4 @@ build/
 *.app
 
 venv/
-docs/
-src/
-test/
 .github/
-
-assets/
-coverage/
-docs/
-node_modules/
-examples/
