@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "numjs": "^0.16.0",
-    "torch-js": "npm:@arition/torch-js"
+    "torch-js": "github:kosyak/torch-js"
   },
   "husky": {
     "hooks": {
